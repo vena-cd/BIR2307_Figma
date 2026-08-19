@@ -1,0 +1,10 @@
+{
+  "description": "This responsive web application allows users to easily view and interact with markdown files on both desktop and mobile devices, enhancing accessibility and usability.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
